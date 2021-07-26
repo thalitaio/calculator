@@ -1,2 +1,2 @@
 # calculator
-little project to start practising javascript :)
+small project to start practising javascript :)
